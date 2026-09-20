@@ -17,3 +17,8 @@ Arquivos gerado nessa etapa:
 
 ### Observação:
 Pensando na estrutura Medallion, podemos dizer que dados_passagens_raw.csv é a nossa **camada bronze** que consiste nos dados brutos carregados dentro do sistema para tratamento e análise.
+
+# 1. Análise GPT
+Submeti o dados_passagens_raw.csv para uma análise mais geral pelo chat GPT. Essa análise pode ser acompanhada no 00_analise_gpt.pdf. Basicamente o GPT identificou dados ausentes e duplicatas bem facilmente e, o que ele não percebeu, mas eu sim, foram dados incoerentes de valor (valores discrepantes, negativos ou nulos).
+Via gráfico de pontos, identifiquei facilmente os valores discrepantes e, como o dataset simulado não previu variabilidade nos valores dentro de uma mesma viagem (mesmo destino e mesmo horário) podemos facilmente fazer o inferência que o valor discrepante, deve ser igual aos demais valores.
+
