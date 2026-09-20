@@ -15,3 +15,5 @@ Arquivos gerado nessa etapa:
 - gerar_passagens_seed.py (script duplicador)
 - dados_passagens_raw.csv (dataset bruto)
 
+### Observação:
+Pensando na estrutura Medallion, podemos dizer que dados_passagens_raw.csv é a nossa camada bronze que consiste nos dados brutos carregados dentro do sistema para tratamento e análise.
