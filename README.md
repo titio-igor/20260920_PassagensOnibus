@@ -43,9 +43,11 @@ Pensando na estrutura Medallion, podemos dizer que dados_passagens_limpo.csv é 
 # 3. EDA e Insights
 Observamos inicialmente, as Receitas por mês e por destino. A partir dessa análise inicial podemos responder as questões:
 ## Q01. Qual mês teve a maior receita? E a menor?
+
 ### R01. Maior receita ocorreu em Maio e, a menor, em Setembro.
 
 ## Q02. Qual destino gerou a maior receita?
+
 ### R02. Fortaleza (CE).
 
 Em seguida, foram carregadas as bibliotecas gráficas e estatísticas afim de construir algumas representações e construir alguns indicadores mais elaborados. Pessoalmente prefiro o seaborn por trazer aspectos visuais melhores do que matplot.
@@ -53,35 +55,51 @@ Em seguida, foram carregadas as bibliotecas gráficas e estatísticas afim de co
 As visualizações escolhidas foram:
 ## Gráfico de linha: Receita ao longo do ano (R$)
 <img width="1184" height="584" alt="image" src="https://github.com/user-attachments/assets/27625df8-b601-4dfc-bf33-667c3fcf9cbf" />
-### Comentário: Maior receita em Maio e menor em Setembro.
+
+### Comentário: 
+Maior receita em Maio e menor em Setembro.
 
 ## Gráfico de barras: Receita por Dia da Semana (R$)
 <img width="984" height="584" alt="image" src="https://github.com/user-attachments/assets/8456525a-f767-488e-bb2a-70015725c483" />
-### Comentário: Terça-feira e Sexta-feira dias com menor receita e Quarta-feira com maior receita. Esse fato é contraintuitivo e, por ser um dataset simulado, dificilmente seria observado em um cenário real (finais de semana concentram mais viagens de ônibus do que o meio da semana).
+
+### Comentário: 
+Terça-feira e Sexta-feira dias com menor receita e Quarta-feira com maior receita. Esse fato é contraintuitivo e, por ser um dataset simulado, dificilmente seria observado em um cenário real (finais de semana concentram mais viagens de ônibus do que o meio da semana).
 
 ## Gráfico de barras: Quantidade de viagens por Dia da Semana (R$)
 <img width="984" height="584" alt="image" src="https://github.com/user-attachments/assets/406cd32f-d1e1-452d-8780-ae63159fdb87" />
-### Comentário: Esse gráfico tem o mesmo comportamento do gráfico de receita, portanto, pode ser um forte indício de correlação entre as variáveis.
+
+### Comentário: 
+Esse gráfico tem o mesmo comportamento do gráfico de receita, portanto, pode ser um forte indício de correlação entre as variáveis.
 
 ## Gráfico de barras: Quantidade de viagens por Horário/Turno
 <img width="884" height="484" alt="image" src="https://github.com/user-attachments/assets/182c43eb-0a3c-4e4a-aa4b-2a1e36c60692" />
-### Comentário: Foi observado uma quantidade bem baixa de viagens de Madrugada. Nos demais horários do dia, a quantidade de viagens não flutua tanto.
+
+### Comentário: 
+Foi observado uma quantidade bem baixa de viagens de Madrugada. Nos demais horários do dia, a quantidade de viagens não flutua tanto.
 
 ## Tabelas de Preço Médio
 <img width="364" height="888" alt="image" src="https://github.com/user-attachments/assets/a423b132-fea7-4f77-89be-a4ca4f11f8ee" />
-### Comentário: Construí essas tabelas para verificar se o preço maior ou menor gera um aumento significativo no número de bilhetes vendidos ou na receita. Não observei esse efeito, a receita pareceu-me proporcional à quantidade de vendas.
+
+### Comentário: 
+Construí essas tabelas para verificar se o preço maior ou menor gera um aumento significativo no número de bilhetes vendidos ou na receita. Não observei esse efeito, a receita pareceu-me proporcional à quantidade de vendas.
 
 ## Teste de correlação entre Quantidade de viagens e Receita por Dia da Semana
 <img width="509" height="84" alt="image" src="https://github.com/user-attachments/assets/3a274f7f-b9f6-47bf-88b7-d2d2c25cc2a7" />
-### Comentário: O valor encontrado foi muito próximo de 1, portanto, quanto mais bilhetes vendidos mais receita gerada (o que não é nenhuma novidade, é o comportamtneo natural)
+
+### Comentário: 
+O valor encontrado foi muito próximo de 1, portanto, quanto mais bilhetes vendidos mais receita gerada (o que não é nenhuma novidade, é o comportamtneo natural)
 
 ## Gráfico de regressão: Preço unitário vs. Quantidade de passagens
 <img width="884" height="484" alt="image" src="https://github.com/user-attachments/assets/1e74137b-8973-4fea-8d47-7ee538a033c6" />
-### Comentário: O valor encontrado foi muito próximo de 0, portanto, não podemos inferir correlação entre as variáveis e o preço (mais barato, por exemplo) não influencia nem gera demanda por uma quantidade maior de vendas.
+
+### Comentário: 
+O valor encontrado foi muito próximo de 0, portanto, não podemos inferir correlação entre as variáveis e o preço (mais barato, por exemplo) não influencia nem gera demanda por uma quantidade maior de vendas.
 
 ## Mapa de calor¹ dos assentos mais escolhidos
 <img width="1278" height="761" alt="image" src="https://github.com/user-attachments/assets/545a77a4-081b-41e0-b114-2829a6fef7ae" />
-### Comentário, apesar de haver alguns assentos mais buscados, não é relevante para motivar uma promoção ou política de vendas. Talvez em uma análise futura, pode-se propor um dataset real que tenha diferença de valores por assento (assentos premium, leito etc) ou ainda, com variação de preço (assentos reservados, assentos com acessibilidade, acentos próximos à TV ou banheiros).
+
+### Comentário: 
+Apesar de haver alguns assentos mais buscados, não é relevante para motivar uma promoção ou política de vendas. Talvez em uma análise futura, pode-se propor um dataset real que tenha diferença de valores por assento (assentos premium, leito etc) ou ainda, com variação de preço (assentos reservados, assentos com acessibilidade, acentos próximos à TV ou banheiros).
 (1.) Mapa de calor construído com GPT.
 
 # 4. Ampliações e insights futuros
