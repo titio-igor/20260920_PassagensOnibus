@@ -1,0 +1,15 @@
+name: passagens-analytics
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas>=2.0.0
+  - numpy>=1.24.0
+  - notebook>=7.0.0
+  - ipython>=8.12.0
+  - openpyxl>=3.1.0
+  - pip
+  - pip:
+    # Caso necessite de pacotes específicos do PyPI no futuro
+    - ipywidgets>=8.0.0

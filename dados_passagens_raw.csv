@@ -1,0 +1,512 @@
+﻿compra_id,quantidade_assentos,posicoes_assentos,origem,destino,preco_unitario,data_partida
+C-000395,3,"9A, 11A, 15B",São Paulo (Tietê),Salvador (BA),270.97,2024/07/13
+C-000270,2,"18A, 17B",São Paulo (Tietê),Curitiba (PR),114.81,2024-06-23 07:30
+C-000094,3,"19B, 17B, 3A",São Paulo (Tietê),Porto Alegre (RS),221.01,2024-10-01 23:45
+C-000123,4,"16B, 17A, 9B, 3B",São Paulo (Tietê),Rio de Janeiro (RJ),112.85,2024-04-24 18:00
+C-000308,2,"5B, 10A",São Paulo (Tietê),Fortaleza (CE),317.82,2024-05-17 20:00
+C-000365,2,"10B, 21B",São Paulo (Tietê),Rio de Janeiro (RJ),97.45,2024-01-13 22:30
+C-000208,4,"20A, 21B, 2A, 3A",São Paulo (Tietê),Brasília (DF),185.15,2024-03-12 15:30
+C-000359,2,"21B, 18A",São Paulo (Tietê),Curitiba (PR),108.82,2024-04-20 23:45
+C-000068,1,3A,São Paulo (Tietê),Brasília (DF),174.22,2024-10-02 22:30
+C-000451,3,"12A, 10A, 3B",São Paulo (Tietê),Fortaleza (CE),338.27,2024-06-10 15:30
+C-000092,1,5B,São Paulo (Tietê),Florianópolis (SC),172.06,2024-12-14 13:00
+C-000086,2,"6A, 3B",São Paulo (Tietê),Florianópolis (SC),,2024-12-15 09:00
+C-000131,2,"18A, 16A",São Paulo (Tietê),Recife (PE),332.34,2024-11-07 20:00
+C-000020,2,"2B, 21B",São Paulo (Tietê),Brasíli a(DF),169.85,2024-05-14 20:00
+C-000283,2,"7B, 14B",São Paulo (Tietê),Brasília (DF),189.18,2024-10-26 07:30
+C-000421,1,15A,São Paulo (Tietê),Curitiba (PR),108.82,2024-04-20 23:45
+C-000295,1,14B,São Paulo (Tietê),Goiânia (GO),173.97,2024-03-19 07:30
+C-000164,1,3A,São Paulo (Tietê),Salvador (BA),270.97,2024-07-13 15:30
+C-000247,4,"16B, 3B, 7B, 1B",São Paulo (Tietê),Curitiba (PR),121.57,2024-08-04 18:00
+C-000453,1,15B,São Paulo (Tietê),Fortaleza (CE),350.0,2024-04-27 11:00
+C-000401,4,"4A, 7B, 20B, 13B",São Paulo (Tietê),Brasília (DF),153.55,2024-05-06 11:00
+C-000417,4,"12B, 6B, 2A, 6A",São Paulo (Tietê),Fortaleza (CE),317.82,2024-05-17 20:00
+C-000439,2,"8B, 7B",São Paulo (Tietê),Brasília (DF),184.86,2024-10-14 09:00
+C-000327,1,16A,São Paulo (Tietê),Fortaleza (CE),338.27,2024-06-10 15:30
+C-000166,1,8B,São Paulo (Tietê),Goiânia (GO),152.81,2024-11-01 22:30
+C-000399,1,3A,São Paulo (Tietê),Recife (PE),301.69,2024-11-21 18:00
+C-000228,2,"7A, 8A",São Paulo (Tietê),Fortaleza (CE),342.57,2024-01-17 23:45
+C-000111,1,13B,São Paulo (Tietê),Florianópolis (SC),195.42,2024-11-24 13:00
+C-000215,1,4A,São Paulo (Tietê),Porto Alegre (RS),198.63,2024-03-04 11:00
+C-000015,1,8B,São Paulo (Tietê),Fortaleza (CE),338.27,2024-06-10 15:30
+C-000240,1,7B,São Paulo (Tietê),Curitiba (PR),104.13,2024-12-23 07:30
+C-000146,5,"19B, 12B, 13A, 16B, 10B",São Paulo (Tietê),Brasília (DF),195.46,2024-08-07 06:00
+C-000072,2,"9A, 2A",São Paulo (Tietê),Porto Alegre (RS),221.01,2024-10-01 23:45
+C-000450,2,"2A, 4B",São Paulo (Tietê),brasília (df),174.22,2024-10-02 22:30
+C-000112,1,15B,São Paulo (Tietê),Rio de Janeiro (RJ),112.85,2024-04-24 18:00
+C-000115,1,13B,São Paulo (Tietê),Fortaleza (CE),342.57,2024-01-17 23:45
+C-000432,1,16A,São Paulo (Tietê),Brasília (DF),0.0,2024-10-02 22:30
+C-000304,1,12A,São Paulo (Tietê),Florianópolis (SC),205.05,
+C-000446,1,13A,São Paulo (Tietê),Recife (PE),323.13,2024-03-28 13:00
+C-000237,2,"19B, 14A",São Paulo (Tietê),Salvador (BA),270.99,2024-04-29 15:30
+C-000223,1,20A,São Paulo (Tietê),Brasília (DF),184.86,2024-10-14 09:00
+C-000333,1,17A,São Paulo (Tietê),Florianópolis (SC),205.05,2024-05-16 06:00
+C-000487,1,,São Paulo (Tietê),Florianópolis (SC),172.06,2024-12-14 13:00
+C-000231,2,"12A, 4B",São Paulo (Tietê),Recife (PE),290.6,2024-09-30 22:30
+C-000153,1,2B,São Paulo (Tietê),Curitiba (PR),114.81,2024-06-23 07:30
+C-000217,1,10A,São Paulo (Tietê),Curitiba (PR),116.38,2024-03-20 15:30
+C-000085,1,7B,São Paulo (Tietê),Goiânia (GO),147.41,2024-11-17 18:00
+C-000389,2,"12B, 16B",São Paulo (Tietê),Porto Alegre (RS),216.61,2024-08-23 15:30
+C-000078,2,"4B, 11A",São Paulo (Tietê),Fortaleza (CE),338.27,2024-06-10 15:30
+C-000203,4,"5A, 19B, 13A, 4A",São Paulo (Tietê),Florianópolis (SC),172.06,
+C-000235,3,"9A, 3B, 16A",São Paulo (Tietê),Brasília (DF),,2024-03-12 15:30
+C-000488,1,13A,São Paulo (Tietê),Rio de Janeiro (RJ),86.49,2024-03-12 06:00
+C-000383,2,"8A, 21B",São Paulo (Tietê),Florianópolis (SC),172.06,
+C-000182,2,"11A, 9A",São Paulo (Tietê),Rio de Janeiro (RJ),86.49,2024-03-12 06:00
+C-000469,2,"16B, 11A",São Paulo (Tietê),Porto Alegre (RS),202.74,
+C-000379,1,2B,São Paulo (Tietê),Porto Alegre (RS),,2024-07-12 07:30
+C-000294,1,21B,São Paulo (Tietê),Fortaleza (CE),342.57,2024-01-17 23:45
+C-000047,2,"19B, 1B",São Paulo (Tietê),Recife (PE),300.08,2024-05-05 11:00
+C-000445,2,"5B, 12B  ",São Paulo (Tietê),Belo Horizonte (MG),133.69,
+C-000172,2,"9A, 13B",São Paulo (Tietê),,,2024-05-05 11:00
+C-000475,2,"7B, 7A",São Paulo (Tietê),Salvador (BA),279.8,2024-08-20 11:00
+C-000254,1,11A,São Paulo (Tietê),Belo Horizonte (MG),133.69,2024-04-21 11:00
+C-000477,1,9A,São Paulo (Tietê),Recife (PE),332.34,2024-11-07 20:00
+C-000079,1,15B,São Paulo (Tietê),Florianópolis (SC),202.19,2024-02-28 18:00
+C-000008,2,"20A, 14B",São Paulo (Tietê),Salvador (BA),264.13,2024-11-21 13:00
+C-000027,4,"8B, 6A, 14A, 16B",São Paulo (Tietê),Rio de Janeiro (RJ),87.93,2024-05-20 07:30
+C-000019,2,"12A, 14B",São Paulo (Tietê),Curitiba (PR),133.63,2024-01-04 15:30
+C-000193,5,"8B, 16A, 19A, 5B, 13A",São Paulo (Tietê),Florianópolis (SC),187.22,2024-10-10 15:30
+C-000189,2,"12B, 20B",São Paulo (Tietê),Salvador (BA),270.97,2024-07-13 15:30
+C-000222,2,"11A, 1B",São Paulo (Tietê),Fortaleza (CE),329.2,2024-02-03 18:00
+C-000138,3,"12A, 10A, 20B",São Paulo (Tietê),Fortaleza (CE),329.2,2024-02-03 18:00
+C-000106,2,"12A, 10B",São Paulo (Tietê),,185.15,2024-03-12 15:30
+C-000433,2,"9A, 6B",São Paulo (Tietê),Florianópolis (SC),210.34,2024-12-15 09:00
+C-000255,1,3B,São Paulo (Tietê),Florianópolis (SC),205.05,2024-05-16 06:00
+C-000393,3,"7B, 2A, 7A",São Paulo (Tietê),Florianópolis (SC),210.34,2024-12-15 09:00
+C-000018,3,"14A, 7A, 4A",São Paulo (Tietê),Salvador (BA),307.78,2024-05-22 15:30
+C-000016,2,"7B, 18A",São Paulo (Tietê),Recife (PE),301.69,2024-11-21 18:00
+C-000310,2,"4A, 7B",São Paulo (Tietê),Porto Alegre (RS),-36.85,2024-10-01 23:45
+C-000324,2,"13B, 11A",São Paulo (Tietê),Florianópolis (SC),188.92,2024-10-01 20:00
+C-000466,5,"11A, 12A, 9A, 6B, 3B",São Paulo (Tietê),Fortaleza (CE),342.57,2024-01-17 23:45
+C-000344,1,17A,São Paulo (Tietê),Porto Alegre (RS),211.83,2024-07-12 07:30
+C-000185,1,13A,São Paulo (Tietê),Brasília (DF),169.85,2024-05-14 20:00
+C-000414,3,"5B, 11B, 13A",São Paulo (Tietê),Porto Alegre (RS),198.63,2024-03-04 11:00
+C-000212,1,19A,São Paulo (Tietê),Rio de Janeiro (RJ),112.85,2024-04-24 18:00
+C-000233,3,"1A, 10B, 20B",São Paulo (Tietê),Belo Horizonte (MG),103.01,
+C-000481,2,"4B, 1A",São Paulo (Tietê),,133.63,2024-01-04 15:30
+C-000246,1,8A,São Paulo (Tietê),,121.51,2024-04-29 22:30
+C-000242,2,"6A, 15B",São Paulo (Tietê),Brasília (DF),189.18,2024-10-26 07:30
+C-000499,3,"7B, 6B, 14A",São Paulo (Tietê),Goiânia (GO),155.36,2024-03-22 18:00
+C-000293,3,"16B, 6A, 6B",São Paulo (Tietê),Porto Alegre (RS),225.64,2024-05-30 13:00
+C-000209,2,"13A, 10A",São Paulo (Tietê),Salvador (BA),270.97,2024-07-13 15:30
+C-000467,4,"14B, 15A, 11B, 21A",São Paulo (Tietê),Goiânia (GO),164.97,2024-12-14 23:45
+C-000158,2,"2B, 6B",São Paulo (Tietê),Brasília (DF),174.22,2024-10-02 22:30
+C-000474,1,12A,São Paulo (Tietê),Belo Horizonte (MG),103.05,2024-01-14 20:00
+C-000118,5,"12A, 8A, 21B, 3A, 2A",São Paulo (Tietê),Belo Horizonte (MG),133.69,2024-04-21 11:00
+C-000322,2,,São Paulo (Tietê),Belo Horizonte (MG),103.05,2024-01-14 20:00
+C-000033,4,"21A, 19B, 2B, 12A",São Paulo (Tietê),Porto Alegre (RS),225.64,2024-05-30 13:00
+C-000194,4,"17B, 5A, 3A, 9B",São Paulo (Tietê),Porto Alegre (RS),211.83,2024-07-12 07:30
+C-000076,1,19A,São Paulo (Tietê),Goiânia (GO),173.97,2024-03-19 07:30
+C-000025,1,,São Paulo (Tietê),Belo Horizonte (MG),118.14,2024-11-04 11:00
+C-000040,4,"7B, 11A, 8B, 9A",São Paulo (Tietê),,-33.85,2024-04-27 11:00
+C-000330,1,17B,São Paulo (Tietê),Fortaleza (CE),317.82,2024-05-17 20:00
+C-000066,0,8A,São Paulo (Tietê),Fortaleza (CE),317.82,2024-05-17 20:00
+C-000404,2,"3B, 13A",São Paulo (Tietê),Fortaleza (CE),350.0,2024-04-27 11:00
+C-000276,1,10B,São Paulo (Tietê),Brasília (DF),195.86,2024-05-15 18:00
+C-000326,3,,São Paulo (Tietê),Belo Horizonte (MG),133.69,2024-04-21 11:00
+C-000303,1,16B,São Paulo (Tietê),Curitiba (PR),101.3,2024-03-22 07:30
+C-000074,2,,São Paulo (Tietê),Goiânia (GO),173.97,2024-03-19 07:30
+C-000346,1,7A,São Paulo (Tietê),Florianópolis (SC),205.05,2024-05-16 06:00
+C-000102,2,"8B, 3B",São Paulo (Tietê),Brasília (DF),153.55,2024-05-06 11:00
+C-000291,1,18B,São Paulo (Tietê),Salvador (BA),270.99,2024-04-29 15:30
+C-000409,2,"14A, 5A",São Paulo (Tietê),Brasília (DF),195.86,2024-05-15 18:00
+C-000133,1,8B,São Paulo (Tietê),Recife (PE),332.34,2024-11-07 20:00
+C-000090,2,"3A, 16A",São Paulo (Tietê),,152.81,2024-11-01 22:30
+C-000280,4,"13A, 1A, 7B, 6B",São Paulo (Tietê),Recife (PE),322.95,2024-03-24 15:30
+C-000496,2,"8A, 7B",São Paulo (Tietê),Brasília (DF),174.22,2024-10-02 22:30
+C-000341,2,"9A, 16B",São Paulo (Tietê),Brasília (DF),173.09,2024-03-14 23:45
+C-000472,3,"14A, 13B, 5A",São Paulo (Tietê),Brasília (DF),185.15,2024-03-12 15:30
+C-000177,2,"9B, 6B",São Paulo (Tietê),Florianópolis (SC),188.92,
+C-000312,1,3A,São Paulo (Tietê),Fortaleza (CE),350.0,2024-04-27 11:00
+C-000360,3,"6A, 9A, 3A",São Paulo (Tietê),Curitiba (PR),104.13,2024-12-23 07:30
+C-000009,4,"7A, 10B, 13B, 21B",São Paulo (Tietê),Porto Alegre (RS),225.64,2024-05-30 13:00
+C-000211,1,13B,São Paulo (Tietê),Curitiba (PR),,2024-01-04 15:30
+C-000150,2,"12B, 4B",São Paulo (Tietê),Recife (PE),301.69,2024-11-21 18:00
+C-000380,1,18B,São Paulo (Tietê),Fortaleza (CE),338.27,2024-06-10 15:30
+C-000105,1,1B,São Paulo (Tietê),Brasília (DF),189.18,2024-10-26 07:30
+C-000249,3,"21B, 8B, 9A",São Paulo (Tietê),Belo Horizonte (MG),102.96,2024-09-15 18:00
+C-000054,1,16B,São Paulo (Tietê),Salvador (BA),264.13,2024-11-21 13:00
+C-000070,2,"18B, 12A",São Paulo (Tietê),Brasília (DF),174.22,2024-10-02 22:30
+C-000278,2,"16A, 20A",São Paulo (Tietê),Rio de Janeiro (RJ),112.85,2024-04-24 18:00
+C-000410,1,18A,São Paulo (Tietê),Belo Horizonte (MG),103.01,2024-10-14 23:45
+C-000077,1,3A,São Paulo (Tietê),Porto Alegre (RS),221.66,2024-02-10 06:00
+C-000201,1,17B,São Paulo (Tietê),Rio de Janeiro (RJ),86.49,2024-02-22 06:00
+C-000429,1,15B,São Paulo (Tietê),Goiânia (GO),174.63,2024-08-04 20:00
+C-000352,4,"19A, 2B, 18A, 16B",São Paulo (Tietê),Fortaleza (CE),317.82,2024-05-17 20:00
+C-000266,1,5A,São Paulo (Tietê),Brasília (DF),174.22,2024-10-02 22:30
+C-000299,3,"19A, 17B, 18A",São Paulo (Tietê),Belo Horizonte (MG),118.14,2024-11-04 11:00
+C-000199,2,"11B, 7A",São Paulo (Tietê),Brasília (DF),,2024-03-12 15:30
+C-000101,1,9A,São Paulo (Tietê),Belo Horizonte (MG),103.05,2024-01-14 20:00
+C-000323,2,"11A, 13A",São Paulo (Tietê),Salvador (BA),307.78,2024-05-22 15:30
+C-000249,3,"21B, 8B, 9A",São Paulo (Tietê),Belo Horizonte (MG),,2024-09-15 18:00
+C-000279,1,10A,São Paulo (Tietê),Recife (PE),332.34,2024-11-07 20:00
+C-000213,1,13B,São Paulo (Tietê),Belo Horizonte (MG),121.51,2024-04-29 22:30
+C-000056,2,"13A, 20A",São Paulo (Tietê),Curitiba (PR),93.82,2024-04-20 23:45
+C-000268,4,"17A, 3A, 3B, 15B",São Paulo (Tietê),Brasília (DF),195.86,2024-05-15 18:00
+C-000055,2,"4B, 3A",São Paulo (Tietê),Brasília (DF),195.46,2024-08-07 06:00
+C-000250,3,"21B, 1A, 10B",São Paulo (Tietê),Fortaleza (CE),338.27,2024-06-10 15:30
+C-000494,1,21A,São Paulo (Tietê),Porto Alegre(RS),211.83,2024-07-12 07:30
+C-000486,4,"6B, 17A, 2A, 16B",São Paulo (Tietê),Rio de Janeiro (RJ),86.49,2024-03-12 06:00
+C-000216,2,,São Paulo (Tietê),Brasília (DF),185.15,2024-03-12 15:30
+C-000072,2,"9A, 2A",São Paulo (Tietê),Porto Alegre (RS),221.01,2024-10-01 23:45
+C-000319,4,"21A, 7A, 12A, 18A",São Paulo (Tietê),Goiânia (GO),,2024-03-22 18:00
+C-000281,1,,São Paulo (Tietê),Brasília (DF),174.22,2024-10-02 22:30
+C-000024,1,8B,São Paulo (Tietê),Porto Alegre (RS),,2024-03-04 11:00
+C-000300,1,1B,São Paulo (Tietê),Recife (PE),290.6,2024-09-30 22:30
+C-000230,1,16A,São Paulo (Tietê),Porto Alegre (RS),216.61,2024-08-23 15:30
+C-000022,1,7A,São Paulo (Tietê),Curitiba (PR),101.3,2024-03-22 07:30
+C-000214,1,15B,São Paulo (Tietê),Goiânia (GO),173.97,2024-03-19 07:30
+C-000196,3,"10B, 11A, 21A",São Paulo (Tietê),Recife (PE),332.34,2024-11-07 20:00
+C-000325,1,8A,São Paulo (Tietê),Brasília (DF),153.55,2024-05-06 11:00
+C-000110,2,,São Paulo (Tietê),Brasília (DF),174.22,2024-10-02 22:30
+C-000452,1,,São Paulo (Tietê),Florianópolis (SC),210.34,2024-12-15 09:00
+C-000122,3,"6B, 12A, 4B",São Paulo (Tietê),Curitiba (PR),104.13,2024-12-23 07:30
+C-000482,1,17A,São Paulo (Tietê),Porto Alegre (RS),241.98,
+C-000443,1,11B,São Paulo (Tietê),Curitiba (PR),101.3,2024-03-22 07:30
+C-000143,1,14B,São Paulo (Tietê),Belo Horizonte (MG),103.01,2024-10-14 23:45
+C-000220,5,"11A, 15A, 9B, 16A, 7A",São Paulo (Tietê),Fortaleza (CE),317.82,2024-05-17 20:00
+C-000206,2,"9B, 12B",São Paulo (Tietê),Belo Horizonte (MG),118.14,2024-11-04 11:00
+C-000437,1,4B,São Paulo (Tietê),Fortaleza (CE),350.0,2024-04-27 11:00
+C-000473,1,,São Paulo (Tietê),Recife (PE),290.6,2024-09-30 22:30
+C-000302,3,"14A, 4B, 16B",São Paulo (Tietê),Goiânia (GO),164.97,2024-12-14 23:45
+C-000305,1,6A,São Paulo (Tietê),Fortaleza (CE),335.48,2024-07-24 11:00
+C-000264,3,"11B, 19B, 20A",São Paulo (Tietê),Curitiba (PR),104.13,2024-12-23 07:30
+C-000021,1,11B,São Paulo (Tietê),Curitiba (PR),133.63,2024-01-04 15:30
+C-000460,2,"16A, 7B",São Paulo (Tietê),Florianópolis (SC),205.05,2024-05-16 06:00
+C-000355,3,"18B, 8B, 4A",São Paulo (Tietê),,133.63,2024-01-04 15:30
+C-000002,3,,São Paulo (Tietê),Recife (PE),300.08,2024-05-05 11:00
+C-000407,1,11B,São Paulo (Tietê),Curitiba (PR),134.71,2024-05-22 15:30
+C-000367,2,,São Paulo (Tietê),,,
+C-000274,1,18B,São Paulo (Tietê),Porto Alegre (RS),225.64,2024-05-30 13:00
+C-000117,1,19B,São Paulo (Tietê),Goiânia (GO),152.81,2024-11-01 22:30
+C-000336,4,"17A, 7B, 8B, 5A",São Paulo (Tietê),Fortaleza (CE),335.48,2024-07-24 11:00
+C-000221,3,"5A, 11B, 16B",São Paulo (Tietê),Brasília (DF),153.55,2024-05-06 11:00
+C-000135,3,"14B, 15A, 16A",São Paulo (Tietê),Salvador (BA),307.78,2024-05-22 15:30
+C-000043,2,"19A, 4A",São Paulo (Tietê),Goiânia (GO),164.97,2024-12-14 23:45
+C-000071,1,9A,São Paulo (Tietê),Rio de Janeiro (RJ),112.85,2024-04-24 18:00
+C-000403,3,"19B, 8A, 4B  ",São Paulo (Tietê),Curitiba (PR),134.71,2024-05-22 15:30
+C-000145,2,,São Paulo (Tietê),Brasília (DF),195.86,2024-05-15 18:00
+C-000370,1,1B,São Paulo (Tietê),Brasília (DF),195.86,2024-05-15 18:00
+C-000413,1,21A,São Paulo (Tietê),Fortaleza (CE),317.82,2024-05-17 20:00
+C-000088,2,"8A, 7A",São Paulo (Tietê),Salvador (BA),270.97,2024-07-13 15:30
+C-000347,3,,São Paulo (Tietê),Porto Alegre (RS),221.66,2024-02-10 06:00
+C-000234,2,"9A, 20B",são paulo (tietê),Curitiba (PR),121.57,2024-08-04 18:00
+C-000039,2,"19A, 17B",São Paulo (Tietê),Brasília (DF),189.18,2024-10-26 07:30
+C-000165,1,15A,São Paulo (Tietê),Porto Alegre (RS),241.98,2024-01-23 23:45
+C-000362,1,20B,São Paulo (Tietê),Goiânia (GO),164.97,2024-12-14 23:45
+C-000120,2,"5A, 8A",São Paulo (Tietê),Curitiba (PR),114.81,2024-06-23 07:30
+C-000337,1,5A,São Paulo (Tietê),Curitiba (PR),108.82,2024-04-20 23:45
+C-000034,1,17A,São Paulo (Tietê),Belo Horizonte (MG),121.51,2024-04-29 22:30
+C-000464,1,20B,São Paulo (Tietê),Porto Alegre (RS),202.74,
+C-000419,2,"15B, 14B",São Paulo (Tietê),,114.81,2024-06-23 07:30
+C-000375,0,8B,São Paulo (Tietê),Recife (PE),290.6,2024-09-30 22:30
+C-000471,1,16A,São Paulo (Tietê),Recife (PE),301.69,
+C-000169,2,"10A, 5B",São Paulo (Tietê),Salvador (BA),270.99,2024-04-29 15:30
+C-000045,4,"3A, 8B, 12B, 10A",São Paulo (Tietê),Curitiba (PR),114.81,23/06/2024
+C-000152,1,21B,São Paulo (Tietê),Porto Alegre (RS),221.01,2024-10-01 23:45
+C-000432,1,16A,São Paulo (Tietê),Brasília (DF),174.22,2024-10-02 22:30
+C-000396,2,"18A, 14B",São Paulo (Tietê),Rio de Janeiro (RJ),86.49,2024-03-12 06:00
+C-000476,1,21B,São Paulo (Tietê),Florianópolis (SC),195.42,2024-11-24 13:00
+C-000003,1,6A,São Paulo (Tietê),Curitiba (PR),108.82,
+C-000200,2,"9B, 16B",São Paulo (Tietê),Salvador (BA),270.97,2024-07-13 15:30
+C-000387,1,7B,São Paulo (Tietê),Belo Horizonte (MG),103.05,2024-01-14 20:00
+C-000252,1,7A,São Paulo (Tietê),Curitiba (PR),114.81,
+C-000098,3,"12B, 21A, 11B",São Paulo (Tietê),Salvador (BA),307.78,2024-05-22 15:30
+C-000232,4,"7A, 10A, 16A, 15A",São Paulo (Tietê),Goiânia (GO),174.63,
+C-000424,2,"18B, 14B",São Paulo (Tietê),Rio de Janeiro (RJ),112.85,2024-04-24 18:00
+C-000087,2,"12B, 3B",São Paulo (Tietê),Recife (PE),323.13,
+C-000434,1,11B,São Paulo (Tietê),Goiânia (GO),174.63,2024-08-04 20:00
+C-000272,3,"3B, 12A, 13B",São Paulo (Tietê),Brasília (DF),195.46,2024-08-07 06:00
+C-000258,4,"2A, 14B, 20B, 1B",São Paulo (Tietê),Salvador (BA),270.99,2024-04-29 15:30
+C-000405,3,"19A, 17B, 7B",São Paulo (Tietê),Recife (PE),300.08,2024-05-05 11:00
+C-000314,2,"8B, 12A",São Paulo (Tietê),Recife (PE),301.69,2024-11-21 18:00
+C-000385,1,15A,São Paulo (Tietê),Brasília (DF),-41.69,2024-08-07 06:00
+C-000026,1,19B,São Paulo (Tietê),Curitiba (PR),133.63,2024-01-04 15:30
+C-000461,1,4B,São Paulo (Tietê),Salvador (BA),,2024-05-22 15:30
+C-000064,1,2A,São Paulo (Tietê),Curitiba (PR),101.3,2024-03-22 07:30
+C-000179,1,12B,São Paulo (Tietê),Goiânia (GO),152.81,2024-11-01 22:30
+C-000416,1,8B,São Paulo (Tietê),Porto Alegre (RS),216.61,2024-08-23 15:30
+C-000239,1,,São Paulo (Tietê),Rio de Janeiro (RJ),86.49,2024-03-12 06:00
+C-000340,2,"2A, 14A",São Paulo (Tietê),Porto Alegre (RS),216.61,2024-08-23 15:30
+C-000134,1,,São Paulo (Tietê),Belo Horizonte (MG),,2024-10-14 23:45
+C-000256,1,14A,São Paulo (Tietê),Goiânia (GO),152.81,2024-11-01 22:30
+C-000285,1,2B,São Paulo (Tietê),Curitiba (PR),108.82,2024-04-20 23:45
+C-000465,3,"3B, 6A, 9A",São Paulo (Tietê),Goiânia (GO),152.81,2024-11-01 22:30
+C-000053,1,5A,São Paulo (Tietê),Rio de Janeiro (RJ),97.45,2024-01-13 22:30
+C-000028,1,13B,São Paulo (Tietê),Florianópolis (SC),187.22,2024-10-10 15:30
+C-000335,1,11A,São Paulo (Tietê),Recife (PE),322.95,2024-03-24 15:30
+C-000005,4,"10B, 8B, 2B, 19A",São Paulo (Tietê),Curitiba (PR),104.13,2024-12-23 07:30
+C-000296,2,"18A, 19B",São Paulo (Tietê),Florianópolis (SC),195.42,2024-11-24 13:00
+C-000126,1,14B,São Paulo (Tietê),Rio de Janeiro (RJ),86.49,2024-02-22 06:00
+C-000384,1,3B,São Paulo (Tietê),Florianópolis (SC),188.92,01/10/2024
+C-000493,2,"19A, 7B",São Paulo (Tietê),Rio de Janeiro (RJ),87.93,2024-05-20 07:30
+C-000142,1,1B,São Paulo (Tietê),Florianópolis (SC),173.4,2024-01-06 07:30
+C-000149,1,16B,São Paulo (Tietê),Porto Alegre (RS),198.63,2024-03-04 11:00
+C-000265,1,18B,São Paulo (Tietê),Salvador (BA),275.62,2024-02-21 09:00
+C-000462,1,13B,São Paulo (Tietê),Porto Alegre (RS),211.83,2024-07-12 07:30
+C-000364,2,"6B, 10B",São Paulo (Tietê),Salvador (BA),270.97,2024-07-13 15:30
+C-000084,3,"21B, 11B, 16A",São Paulo (Tietê),Goiânia (GO),,2024-03-19 07:30
+C-000061,5,"6A, 9A, 6B, 7A, 14B",São Paulo (Tietê),Brasília (DF),,2024-05-14 20:00
+C-000350,1,,São Paulo (Tietê),Recife (PE),332.34,2024-11-07 25:99
+C-000057,1,,São Paulo (Tietê),Curitiba (PR),116.38,
+C-000490,3,"11A, 7A, 5B",São Paulo (Tietê),Curitiba (PR),134.71,2024-05-22 15:30
+C-000449,3,"5A, 13A, 11B",São Paulo (Tietê),Brasília (DF),173.09,2024-03-14 23:45
+C-000435,1,1B,São Paulo (Tietê),Salvador (BA),307.78,2024-05-22 15:30
+C-000369,3,"1B, 17B, 11A",São Paulo (Tietê),Brasília (DF),153.55,2024-05-06 11:00
+C-000154,2,"5A, 21A",São Paulo (Tietê),Recife (PE),290.6,2024-09-30 22:30
+C-000275,3,"9A, 21B, 15A",São Paulo (Tietê),Salvador (BA),270.99,2024-04-29 15:30
+C-000260,3,"13A, 5B, 3A",São Paulo (Tietê),Belo Horizonte (MG),118.14,2024-11-04 11:00
+C-000497,1,6A,São Paulo (Tietê),Florianópolis (SC),187.22,2024-10-10 15:30
+C-000292,1,12B,São Paulo (Tietê),Belo Horizonte (MG),121.51,2024-04-29 22:30
+C-000119,4,"7A, 1B, 5B, 8B",São Paulo (Tietê),Rio de Janeiro (RJ),112.85,2024-04-24 18:00
+C-000238,1,,São Paulo (Tietê),Brasília (DF),169.85,2024-05-14 20:00
+C-000263,2,"15B, 5A",São Paulo (Tietê),Goiânia (GO),164.97,2024-12-14 23:45
+C-000442,1,1A,São Paulo (Tietê),Goiânia (GO),152.81,2024-11-01 22:30
+C-000251,5,,São Paulo (Tietê),Curitiba (PR),116.38,2024-03-20 15:30
+C-000011,1,8A,São Paulo (Tietê),Goiânia (GO),155.36,2024-03-22 18:00
+C-000218,1,,São Paulo (Tietê),Goiânia (GO),164.97,2024-12-14 23:45
+C-000415,3,"11A, 4A, 7A",São Paulo (Tietê),Belo Horizonte (MG),121.51,2024-04-29 22:30
+C-000332,2,"9B, 4B",São Paulo (Tietê),Brasília (DF),185.15,2024-03-12 15:30
+C-000243,3,"15B, 10A, 6B",São Paulo (Tietê),Curitiba (PR),133.63,2024-01-04 15:30
+C-000353,1,4A,São Paulo (Tietê),Salvador (BA),270.97,
+C-000406,2,"4B, 7B",São Paulo (Tietê),Brasília (DF),173.09,2024-03-14 23:45
+C-000284,2,"4B, 3B",São Paulo (Tietê),,322.95,2024-03-24 15:30
+C-000046,1,18A,São Paulo (Tietê),Porto Alegre (RS),241.98,
+C-000386,2,"14B, 6B",São Paulo (Tietê),Porto Alegre (RS),198.63,2024-03-04 11:00
+C-000167,2,,São Paulo (Tietê),Recife (PE),323.13,2024-03-28 13:00
+C-000459,2,"19B, 7B",São Paulo (Tietê),Salvador (BA),275.62,2024-02-21 09:00
+C-000253,1,11B,São Paulo (Tietê),,342.57,2024-01-17 23:45
+C-000103,1,20B,São Paulo (Tietê),Brasília (DF),189.18,
+C-000032,1,10A,São Paulo (Tietê),Florianópolis (SC),173.4,
+C-000010,1,17B,São Paulo (Tietê),Brasília (DF),195.86,2024-05-15 18:00
+C-000173,1,20B,São Paulo (Tietê),Florianópolis (SC),172.06,
+C-000257,2,,São Paulo (Tietê),Florianópolis (SC),210.34,2024-12-15 09:00
+C-000014,1,2A,São Paulo (Tietê),Belo Horizonte (MG),121.51,2024-04-29 22:30
+C-000180,2,,São Paulo (Tietê),Fortaleza (CE),342.57,2024-01-17 23:45
+C-000479,2,"2B, 3B",São Paulo (Tietê),Salvador (BA),270.99,2024-04-29 15:30
+C-000485,2,"6B, 13B",São Paulo (Tietê),Belo Horizonte (MG),103.01,2024-10-14 23:45
+C-000286,1,17A,São Paulo (Tietê),Belo Horizonte (MG),103.05,2024-01-14 20:00
+C-000321,0,13B,São Paulo (Tietê),Goiânia (GO),,2024-03-22 18:00
+C-000130,1,20A,São Paulo (Tietê),Goiânia (GO),173.97,
+C-000060,1,20A,São Paulo (Tietê),Curitiba (PR),101.3,2024-03-22 07:30
+C-000441,2,"18B, 20A",São Paulo (Tietê),Florianópolis (SC),,2024-12-14 13:00
+C-000107,3,"17A, 21A, 10B",São Paulo (Tietê),Brasília (DF),153.55,2024-05-06 11:00
+C-000383,2,"8A, 21B",São Paulo (Tietê),Florianópolis (SC),,2024-12-14 13:00
+C-000374,3,,São Paulo (Tietê),Porto Alegre (RS),198.63,2024-03-04 11:00
+C-000049,2,"5B, 10A",São Paulo (Tietê),Curitiba (PR),,2024-03-22 07:30
+C-000298,1,20B,São Paulo (Tietê),Goiânia (GO),173.97,2024-03-19 07:30
+C-000259,5,"15B, 16B, 5A, 19A, 17B",São Paulo (Tietê),Belo Horizonte (MG),121.51,2024-04-29 22:30
+C-000075,3,"7A, 9A, 2A",São Paulo (Tietê),Brasília (DF),153.55,
+C-000309,1,8B,São Paulo (Tietê),Curitiba (PR),101.3,2024-03-22 07:30
+C-000097,3,"16B, 15B, 9B",São Paulo (Tietê),Goiânia (GO),155.36,
+C-000366,1,14A,São Paulo (Tietê),Brasília (DF),8324.68,2024-10-26 07:30
+C-000030,1,15B,São Paulo (Tietê),Brasília (DF),153.55,2024-05-06 11:00
+C-000241,2,"16A, 18A",São Paulo (Tietê),Brasília (DF),153.55,2024-05-06 11:00
+C-000463,1,16A,São Paulo (Tietê),Brasília (DF),189.18,2024-10-26 07:30
+C-000408,1,15A,São Paulo (Tietê),,112.85,2024-04-24 18:00
+C-000420,2,"5A, 13A",São Paulo (Tietê),Belo Horizonte (MG),103.01,2024-10-14 23:45
+C-000108,1,15A,São Paulo (Tietê),Florianópolis (SC),173.4,2024-01-06 07:30
+C-000190,2,"3B, 9B",São Paulo (Tietê),Rio de Janeiro (RJ),87.93,2024-05-20 07:30
+C-000289,1,16B,São Paulo (Tietê),Curitiba (PR),104.13,2024-12-23 07:30
+C-000007,5,"18A, 5A, 16A, 18B, 6A",São Paulo (Tietê),Belo Horizonte (MG),102.96,2024-09-15 18:00
+C-000175,1,21B,São Paulo (Tietê),Rio de Janeiro (RJ),112.85,2024-04-24 18:00
+C-000163,4,"7B, 9A, 3B, 6A",São Paulo (Tietê),Curitiba (PR),133.63,
+C-000069,1,17B,São Paulo (Tietê),Recife (PE),301.69,2024-11-21 18:00
+C-000498,1,11A,São Paulo (Tietê),Rio de Janeiro (RJ),97.45,2024-01-13 22:30
+C-000287,2,"17A, 11B",São Paulo (Tietê),Florianópolis (SC),173.4,2024-01-06 07:30
+C-000436,4,"17A, 10B, 7B, 14A",São Paulo (Tietê),Recife (PE),290.6,
+C-000272,3,"3B, 12A, 13B",São Paulo (Tietê),Brasília (DF),195.46,
+C-000013,2,"1A, 3A",São Paulo (Tietê),Salvador (BA),275.62,2024-02-21 09:00
+C-000116,3,"15A, 9B, 3B",São Paulo (Tietê),Recife (PE),301.69,2024-11-21 18:00
+C-000331,2,"3B, 11B",São Paulo (Tietê),Curitiba (PR),660.37,2024-06-23 07:30
+C-000012,1,21A,São Paulo (Tietê),Belo Horizonte (MG),102.96,2024-09-15 18:00
+C-000373,3,"8A, 18A, 18B",São Paulo (Tietê),Fortaleza (CE),335.48,
+C-000457,2,"18A, 21B",São Paulo (Tietê),Brasília (DF),189.18,2024-10-26 07:30
+C-000354,1,13B,São Paulo (Tietê),Brasília (DF),195.86,2024-05-15 18:00
+C-000155,1,1A,São Paulo (Tietê),Florianópolis (SC),173.4,2024-01-06 07:30
+C-000121,2,"13A, 6A",São Paulo (Tietê),Goiânia (GO),174.63,2024-08-04 20:00
+C-000073,2,"14A, 13A",São Paulo (Tietê),Curitiba (PR),101.3,2024-03-22 07:30
+C-000361,1,18A,São Paulo (Tietê),Belo Horizonte (MG),133.69,2024-04-21 11:00
+C-000133,1,8B,São Paulo (Tietê),Recife (PE),332.34,2024-11-07 20:00
+C-000338,3,"3A, 14A, 7B",São Paulo (Tietê),Florianópolis (SC),202.19,2024-02-28 18:00
+C-000148,1,18A,São Paulo (Tietê),,211.83,2024-07-12 07:30
+C-000207,2,"11B, 18A",São Paulo (Tietê),Brasília (DF),184.86,2024-10-14 09:00
+C-000089,1,9A,São Paulo (Tietê),Curitiba (PR),116.38,2024-03-20 15:30
+C-000422,3,"1B, 3B, 2A",São Paulo (Tietê),Rio de Janeiro (RJ),86.49,2024-02-22 06:00
+C-000104,1,7B,São Paulo (Tietê),Goiânia (GO),174.63,2024-08-04 20:00
+C-000301,1,,São Paulo (Tietê),Fortaleza (CE),342.57,2024-01-17 23:45
+C-000001,3,"17A, 4A, 21A",São Paulo (Tietê),Florianópolis (SC),202.19,2024-02-28 18:00
+C-000129,2,"15B, 5B",São Paulo (Tietê),Brasília (DF),173.09,2024-03-14 23:45
+C-000495,3,"13B, 10A, 4A",São Paulo (Tietê),Brasília (DF),174.22,2024-10-02 22:30
+C-000124,1,17B,São Paulo (Tietê),Salvador (BA),307.78,2024-05-22 15:30
+C-000109,1,12A,São Paulo (Tietê),Florianópolis (SC),173.4,2024-01-06 07:30
+C-000392,2,"10A, 8B",São Paulo (Tietê),Belo Horizonte MG,118.14,2024-11-04 11:00
+C-000095,4,"6A, 18A, 6B, 20A",São Paulo (Tietê),,307.78,2024-05-22 15:30
+C-000082,2,"11B, 14B",São Paulo (Tietê),Porto Alegre (RS),,2024-10-01 23:45
+C-000248,3,"10B, 6A, 9A",São Paulo (Tietê),Belo Horizonte (MG),133.69,2024-04-21 11:00
+C-000219,4,"19B, 6B, 3A, 16B",São Paulo (Tietê),Goiânia (GO),,2024-08-04 20:00
+C-000306,2,"2B, 11B",São Paulo (Tietê),Belo Horizonte (MG),118.14,2024-11-04 11:00
+C-000052,2,"9B, 2A",São Paulo (Tietê),Belo Horizonte (MG),103.01,2024-10-14 23:45
+C-000189,2,"12B, 20B",São Paulo (Tietê),Salvador (BA),270.97,2024-07-13 15:30
+C-000091,3,"20A, 7A, 13A",São Paulo (Tietê),Brasília (DF),189.18,2024-10-26 07:30
+C-000017,2,"19A, 16A",São Paulo (Tietê),Curitiba (PR),114.81,2024-06-23 07:30
+C-000083,1,8A,São Paulo (Tietê),Rio de Janeiro (RJ),97.45,2024-01-13 22:30
+C-000031,1,18B,São Paulo (Tietê),Recife (PE),323.13,2024-03-28 13:00
+C-000372,1,15B,São Paulo (Tietê),Fortaleza (CE),338.27,2024-06-10 15:30
+C-000023,1,14B,São Paulo (Tietê),Florianópolis (SC),195.42,2024-11-24 13:00
+C-000202,1,5B,São Paulo (Tietê),Brasília (DF),185.15,2024-03-12 15:30
+C-000290,2,"6B, 2B",São Paulo (Tietê),Florianópolis (SC),173.4,2024-01-06 07:30
+C-000151,1,12B,São Paulo (Tietê),Porto Alegre (RS),211.83,2024-07-12 07:30
+C-000161,3,"13B, 15B, 11A",São Paulo (Tietê),,270.99,2024-04-29 15:30
+C-000358,1,10A,São Paulo (Tietê),Belo Horizonte (MG),,2024-01-14 20:00
+C-000500,1,10A,São Paulo (Tietê),Rio de Janeiro (RJ),87.93,2024-05-20 07:30
+C-000132,1,21A,São Paulo (Tietê),Goiânia (GO),174.63,2024-08-04 20:00
+C-000036,3,"3A, 20B, 8B",São Paulo (Tietê),Belo Horizonte (MG),103.05,2024-01-14 20:00
+C-000128,3,"18B, 4A, 16A",São Paulo (Tietê),Rio de Janeiro (RJ),87.93,2024-05-20 07:30
+C-000156,2,"17A, 13B",São Paulo (Tietê),Recife (PE),323.13,2024-03-28 13:00
+C-000489,4,"15B, 13B, 20B, 21B",São Paulo (Tietê),Curitiba (PR),101.3,2024-03-22 07:30
+C-000402,5,"8A, 17B, 11B, 4B, 3A",São Paulo (Tietê),Porto Alegre (RS),225.64,2024-05-30 13:00
+C-000345,3,"18A, 9B, 12A",São Paulo (Tietê),Goiânia (GO),174.63,2024-08-04 20:00
+C-000342,3,"17B, 10A, 5B",São Paulo (Tietê),Recife (PE),323.13,
+C-000343,1,17A,São Paulo (Tietê),Florianópolis (SC),195.42,2024-11-24 13:00
+C-000267,1,10B,São Paulo (Tietê),Fortaleza (CE),8171.06,2024-04-27 11:00
+C-000029,1,1A,São Paulo (Tietê),Belo Horizonte (MG),121.51,2024-04-29 22:30
+C-000226,4,"2A, 14A, 19A, 16B",São Paulo (Tietê),Curitiba (PR),133.63,2024-01-04 15:30
+C-000438,5,"11A, 11B, 7A, 1A, 2A",São Paulo (Tietê),Florianópolis (SC),172.06,2024-12-14 13:00
+C-000062,1,11B,São Paulo (Tietê),Rio de Janeiro (RJ),112.85,2024-04-24 18:00
+C-000448,1,11A,São Paulo (Tietê),Curitiba (PR),133.63,2024-01-04 15:30
+C-000078,2,"4B, 11A",São Paulo (Tietê),Fortaleza (CE),,2024-06-10 15:30
+C-000063,3,"11A, 12A, 8A",São Paulo (Tietê),Brasília (DF),169.85,2024-05-14 20:00
+C-000224,4,"18B, 11B, 9B, 14A",São Paulo (Tietê),Belo Horizonte (MG),133.69,2024-04-21 11:00
+C-000349,1,7A,São Paulo (Tietê),Curitiba (PR),121.57,2024-08-04 18:00
+C-000096,4,"17A, 19A, 16B, 20B",São Paulo (Tietê),Fortaleza (CE),350.0,2024-04-27 11:00
+C-000081,1,15A,São Paulo (Tietê),Curitiba (PR),114.81,2024-06-23 07:30
+C-000368,2,"21A, 2A",São Paulo (Tietê),Florianópolis (SC),205.05,2024-05-16 06:00
+C-000192,4,"10B, 17B, 10A, 14B",São Paulo (Tietê),Florianópolis (SC),172.06,2024-12-14 13:00
+C-000447,3,"11A, 4B, 5A",São Paulo (Tietê),,155.36,2024-03-22 18:00
+C-000428,1,16B,São Paulo (Tietê),Porto Alegre (RS),241.98,2024-01-23 23:45
+C-000480,1,13B,São Paulo (Tietê),Brasília (DF),169.85,2024-05-14 20:00
+C-000388,1,19A,São Paulo (Tietê),Recife (PE),322.95,2024-03-24 15:30
+C-000412,5,"4A, 17A, 20B, 13B, 12A",São Paulo (Tietê),Curitiba (PR),,2024-06-23 07:30
+C-000157,4,"9B, 17A, 4B, 3A",São Paulo (Tietê),Porto Alegre (RS),198.63,2024-03-04 11:00
+C-000065,1,15B,São Paulo (Tietê),Goiânia (GO),152.81,2024-11-01 22:30
+C-000058,1,2A,São Paulo (Tietê),Recife (PE),322.95,2024-03-24 15:30
+C-000051,2,"9A, 2B",São Paulo (Tietê),Salvador (BA),264.13,2024-11-21 13:00
+C-000035,4,"18B, 6B, 2B, 18A",São Paulo (Tietê),Florianópolis (SC),202.19,2024-02-28 18:00
+C-000382,3,"15A, 13B, 7A",São Paulo (Tietê),Goiânia (GO),147.41,
+C-000376,1,11B,São Paulo (Tietê),Rio de Janeiro (RJ),86.49,22/02/2024
+C-000210,1,4B,São Paulo (Tietê),Belo Horizonte (MG),,2024-10-14 23:45
+C-000042,2,"3A, 1A",São Paulo (Tietê),Recife (PE),300.08,2024-05-05 11:00
+C-000378,1,21B,São Paulo (Tietê),Salvador (BA),279.8,2024-08-20 11:00
+C-000160,2,"14A, 20A",São Paulo (Tietê),Curitiba (PR),121.57,2024-08-04 18:00
+C-000113,3,,São Paulo (Tietê),Curitiba (PR),134.71,
+C-000187,1,20B  ,São Paulo (Tietê),Belo Horizonte (MG),133.69,2024-04-21 11:00
+C-000328,1,6B,São Paulo (Tietê),Recife (PE),323.13,2024-03-28 13:00
+C-000044,2,"17A, 9A",São Paulo (Tietê),Belo Horizonte (MG),,2024-11-04 11:00
+C-000282,2,"9A, 16B",São Paulo (Tietê),Belo Horizonte (MG),103.01,2024-10-14 23:45
+C-000048,4,"5B, 6B, 11A, 6A",São Paulo (Tietê),Recife (PE),300.08,2024/05/05
+C-000140,1,15B,São Paulo (Tietê),Belo Horizonte (MG),,2024-01-14 20:00
+C-000137,1,7B,São Paulo (Tietê),Fortaleza (CE),342.57,2024-01-17 23:45
+C-000041,1,21B,São Paulo (Tietê),Brasília (DF),,2024-10-14 09:00
+C-000426,3,"20B, 10A, 8B",São Paulo (Tietê),Salvador (BA),307.78,2024-05-22 15:30
+C-000170,1,11A,São Paulo (Tietê),Belo Horizonte (MG),118.14,2024-11-04 11:00
+C-000398,2,,São Paulo (Tietê),Curitiba (PR),134.71,2024-05-22 15:30
+C-000176,5,"9B, 19A, 2A, 6B, 16A",São Paulo (Tietê),Rio de Janeiro (RJ),99.72,2024-05-05 23:45
+C-000006,1,16B,São Paulo (Tietê),Belo Horizonte (MG),,2024-01-14 20:00
+C-000244,2,"7B, 16A",São Paulo (Tietê),Rio de Janeiro (RJ),86.49,2024-03-12 06:00
+C-000313,1,,São Paulo (Tietê),Goiânia (GO),152.81,2024-11-01 22:30
+C-000204,1,16A,São Paulo (Tietê),Goiânia (GO),147.41,2024-11-17 18:00
+C-000100,1,12A,são paulo (tietê),Salvador (BA),270.97,2024-07-13 15:30
+C-000114,1,16B,São Paulo (Tietê),Brasilia (DF),185.15,2024-03-12 15:30
+C-000431,2,"20A, 8A",São Paulo (Tietê),Fortaleza (CE),350.0,2024-04-27 11:00
+C-000171,1,20A,São Paulo (Tietê),Recife (PE),323.13,2024-03-28 13:00
+C-000144,1,15B,São Paulo (Tietê),Salvador (BA),307.78,2024-05-22 15:30
+C-000269,2,"9B, 21B",São Paulo (Tietê),Curitiba (PR),133.63,2024-01-04 15:30
+C-000492,2,"17B, 6A",São Paulo (Tietê),Goiânia (GO),164.97,2024-12-14 23:45
+C-000311,2,"19A, 14A",São Paulo (Tietê),Florianópolis (SC),172.06,2024-12-14 13:00
+C-000363,1,19A,São Paulo (Tietê),Florianópolis (SC),195.42,2024-11-24 13:00
+C-000099,1,10B,São Paulo (Tietê),Recife (PE),301.69,2024-11-21 18:00
+C-000470,1,20A,São Paulo (Tietê),Florianópolis (SC),187.22,2024-10-10 15:30
+C-000003,1,6A,São Paulo (Tietê),Curitiba (PR),108.82,2024-04-20 23:45
+C-000423,2,"21B, 15B",São Paulo (Tietê),Salvador (BA),264.13,2024-11-21 13:00
+C-000229,3,"11A, 14A, 7B",São Paulo (Tietê),Curitiba (PR),114.81,2024-06-23 07:30
+C-000271,2,"16B, 14B",São Paulo (Tietê),,338.27,2024-06-10 15:30
+C-000050,2,"11B, 7B",São Paulo (Tietê),Recife (PE),323.13,2024-03-28 13:00
+C-000296,2,"18A, 19B",São Paulo (Tietê),Florianópolis (SC),195.42,2024-11-24 13:00
+C-000159,3,"11A, 3B, 9A",São Paulo (Tietê),Curitiba (PR),108.82,2024-04-20 23:45
+C-000478,1,19B,São Paulo (Tietê),Salvador (BA),307.78,2024-05-22 15:30
+C-000456,1,5A,São Paulo (Tietê),Rio de Janeiro (RJ),99.72,2024-05-05 23:45
+C-000059,1,8B,São Paulo (Tietê),Fortaleza (CE),329.2,2024-02-03 18:00
+C-000307,1,13B,São Paulo (Tietê),Florianópolis (SC),210.34,2024-12-15 09:00
+C-000136,1,18A,São Paulo (Tietê),,185.15,2024-03-12 15:30
+C-000195,1,19B,São Paulo (Tietê),Brasília (DF),189.18,2024-10-26 07:30
+C-000004,4,"20A, 11A, 16B, 1B",São Paulo (Tietê),Florianópolis (SC),205.05,2024-05-16 06:00
+C-000262,1,14A,São Paulo (Tietê),Fortaleza (CE),,2024-01-17 23:45
+C-000038,2,"2A, 3B",São Paulo (Tietê),Salvador (BA),307.78,2024-05-22 15:30
+C-000483,2,"16B, 7A",São Paulo (Tietê),Florianópolis (SC),187.22,2024-10-10 15:30
+C-000348,3,"21B, 4A, 20B",São Paulo (Tietê),Florianópolis (SC),187.22,2024-10-10 25:99
+C-000188,4,"20A, 21B, 6A, 1B",São Paulo (Tietê),Curitiba (PR),114.81,2024-06-23 07:30
+C-000184,3,"1A, 19A, 16B",São Paulo (Tietê),Florianópolis (SC),210.34,2024-12-15 09:00
+C-000125,3,"14B, 18A, 4A",São Paulo (Tietê),Recife (PE),300.08,2024-05-05 11:00
+C-000186,2,"17B, 16A",São Paulo (Tietê),Brasílai (DF),173.09,2024-03-14 23:45
+C-000067,1,7A,São Paulo (Tietê),Salvador (BA),270.99,2024-04-29 15:30
+C-000273,1,19B,São Paulo (Tietê),Fortaleza (CE),329.2,2024-02-03 18:00
+C-000394,1,3A,São Paulo (Tietê),Goiânia (GO),147.41,2024-11-17 18:00
+C-000356,1,17B,São Paulo (Tietê),Curitiba (PR),134.71,2024-05-22 15:30
+C-000227,1,9A,São Paulo (Tietê),Curitiba (PR),114.81,2024-06-23 07:30
+C-000440,1,7A,São Paulo (Tietê),Fortaleza (CE),329.2,2024-02-03 18:00
+C-000139,2,"21A, 8A",São Paulo (Tietê),Recife (PE),301.69,2024-11-21 18:00
+C-000351,3,"4B, 11B, 18B",São Paulo (Tietê),Curitiba (PR),116.38,2024-03-20 15:30
+C-000181,2,"14A, 18A",São Paulo (Tietê),Brasília (DF),169.85,2024-05-14 20:00
+C-000320,1,3B,São Paulo (Tietê),Florianópolis (SC),202.19,2024-02-28 18:00
+C-000430,1,16B,São Paulo (Tietê),Curitiba (PR),116.38,2024-03-20 15:30
+C-000277,3,"16B, 21A, 17B",São Paulo (Tietê),Salvador (BA),270.99,2024-04-29 15:30
+C-000236,2,"21B, 13A",São Paulo (Tietê),Salvador (BA),275.62,2024-02-21 09:00
+C-000491,1,21A,São Paulo (Tietê),Curitiba (PR),104.13,2024-12-23 07:30
+C-000468,4,"11B, 13A, 10A, 12A",São Paulo (Tietê),Porto Alegre (RS),211.83,2024-07-12 07:30
+C-000162,1,2B,São Paulo (Tietê),Brasília (DF),195.46,2024-08-07 06:00
+C-000334,1,14B,São Paulo (Tietê),Florianópolis (SC),210.34,2024-12-15 09:00
+C-000377,1,20B,São Paulo (Tietê),Florianópolis (SC),210.34,2024-12-15 09:00
+C-000168,4,"20B, 8A, 15B, 5B",São Paulo (Tietê),Salvador (BA),275.62,2024-02-21 09:00
+C-000198,1,18B,São Paulo (Tietê),,317.82,17/05/2024
+C-000288,3,"5A, 14B, 17A",São Paulo (Tietê),Porto Alegre (RS),225.64,
+C-000315,1,10B,São Paulo (Tietê),Belo Horizonte (MG),118.14,2024-11-04 11:00
+C-000317,2,"2A, 15B",São Paulo (Tietê),Belo Horizonte (MG),118.14,2024-11-04 11:00
+C-000261,1,19B,São Paulo (Tietê),Curitiba (PR),114.81,2024-06-23 07:30
+C-000205,2,"18A, 7A",São Paulo (Tietê),Rio de Janeiro (RJ),87.93,2024-05-20 07:30
+C-000197,3,,São Paulo (Tietê),Florianópolis (SC),173.4,2024-01-06 07:30
+C-000444,3,"14B, 2A, 17A",são paulo (tietê),Brasília (DF),173.09,2024-03-14 23:45
+C-000458,2,"6B, 20B",São Paulo (Tietê),Rio de Janeiro (RJ),112.85,2024-04-24 18:00
+C-000191,2,"5B, 7A",São Paulo (Tietê),Curitiba (PR),104.13,2024-12-23 07:30
+C-000318,1,2A,São Paulo (Tietê),Florianópolis (SC),202.19,2024-02-28 18:00
+C-000297,1,2B,São Paulo (Tietê),Fortaleza (CE),329.2,2024-02-03 18:00
+C-000329,1,6B,São Paulo (Tietê),Fortaleza (CE),338.27,2024-06-10 15:30
+C-000080,1,10A,São Paulo (Tietê),Fortaleza (CE),342.57,2024-01-17 23:45
+C-000093,3,"4A, 15B, 9A",São Paulo (Tietê),Rio de Janeiro (RJ),97.45,2024-01-13 22:30
+C-000400,2,"12B, 13A",São Paulo (Tietê),Rio de Janeiro (RJ),112.85,2024-04-24 18:00
+C-000357,3,"18A, 16B, 1A",São Paulo (Tietê),Curitiba (PR),134.71,2024-05-22 15:30
+C-000455,2,"7B, 12B",São Paulo (Tietê),,173.4,2024-01-06 07:30
+C-000418,2,"20B, 11B",São Paulo (Tietê),Porto Alegre (RS),221.66,2024-02-10 06:00
+C-000316,1,11B,São Paulo (Tietê),Rio de Janeiro (RJ),86.49,2024-03-12 06:00
+C-000391,2,"19B, 1B",São Paulo (Tietê),Recife (PE),301.69,
+C-000411,2,"17A, 3A",São Paulo (Tietê),Florianópolis (SC),187.22,2024-10-10 15:30
+C-000484,1,1B,São Paulo (Tietê),Fortaleza (CE),342.57,2024-01-17 23:45
+C-000339,1,6B,São Paulo (Tietê),Brasília (DF),185.15,
+C-000225,2,"10B, 5A",São Paulo (Tietê),,270.99,2024-04-29 15:30
+C-000141,2,"8B, 17B",São Paulo (Tietê),Florianópolis (SC),173.4,
+C-000037,1,19A,São Paulo (Tietê),Brasília (DF),174.22,2024-10-02 22:30
+C-000147,1,5A,São Paulo (Tietê),Recife (PE),322.95,2024-03-24 15:30
+C-000178,2,"18B, 3B",São Paulo (Tietê),Goiânia (GO),173.97,2024-03-19 07:30
+C-000381,1,8B,São Paulo (Tietê),Brasília (DF),195.86,2024-05-15 18:00
+C-000127,1,11B,São Paulo (Tietê),Brasília (DF),195.86,2024-05-15 18:00
+C-000390,2,"13B, 16B",São Paulo (Tietê),Rio de Janeiro (RJ),86.49,2024-02-22 06:00
+C-000454,2,"15B, 16A",São Paulo (Tietê),Recife (PE),300.08,2024-05-05 11:00
+C-000397,1,2B,São Paulo (Tietê),brasília (df),195.86,2024-05-15 18:00
+C-000371,3,"15A, 10B, 5A",São Paulo (Tietê),Fortaleza (CE),9048.84,2024-02-03 18:00
+C-000245,4,"13A, 4A, 19A, 12B",São Paulo (Tietê),Goiânia (GO),147.41,2024-11-17 18:00
+C-000183,1,,São Paulo (Tietê),Fortaleza (CE),342.57,2024-01-17 23:45
+C-000365,2,"10B, 21B",São Paulo (Tietê),Rio de Janeiro (RJ),97.45,
+C-000425,2,"13A, 18B",São Paulo (Tietê),Recife (PE),290.6,2024-09-30 22:30
+C-000174,3,"11A, 20B, 9A",São Paulo (Tietê),Rio de Janeiro (RJ),86.49,2024-02-22 06:00
+C-000427,1,3A,São Paulo (Tietê),Goiânia (GO),164.97,2024-12-14 23:45
